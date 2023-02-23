@@ -1,2 +1,2 @@
-# Zmey-Dungeon
-An exploration mini game
+# ZmeyDungeon
+ an exploration game
