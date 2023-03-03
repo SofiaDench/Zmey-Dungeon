@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Skill Learn Area.unity
+    guid: 4c8be9877c2343749833d9d15851c06a
   m_configObjects: {}
